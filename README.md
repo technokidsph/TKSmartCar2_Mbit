@@ -1,4 +1,4 @@
-# mbit
+# TK_mbit
 
 Extension for Technokids_mbit_en V3.0.4
 
